@@ -1,0 +1,15 @@
+{
+  "instagram" : {
+    "ACCESS_TOKEN"  : "xxxxxxxxxxxxx",
+    "CLIENT_ID"     : "xxxxxxxxxxxxx",
+    "CLIENT_SECRET" : "xxxxxxxxxxxxx"
+  },
+  "ID" : {
+    "moga"  : "14337530",
+    "nemu"  : "5628659",
+    "pinky" : "987958198",
+    "risa"  : "198364275",
+    "mirin" : "11669669",
+    "eimi"  : ""
+  }
+}
